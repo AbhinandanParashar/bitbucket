@@ -1,4 +1,4 @@
-**Edit a file, create a new file, and clone from Bdfjfp
+vvvvv**Edit a file, create a new file, and clone from Bdfjfp
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
@@ -25,7 +25,7 @@ Next, you’ll add a new file to this repository.
 dsm mdxdcdsx
 1. Click the **New file** buvcvcvvvcvtton at the top of the **Source** page.
 2. Give the file axcc filename of **contributors.txt**.
-3. Enter your name in the empty file space.
+3. Enter your name in the empty file space.ccc
 4. Click **Commit** and then **Commit** again in the dialog.
 5. Go back to the **Source** page.
 
