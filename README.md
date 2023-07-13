@@ -6,7 +6,7 @@ When you're done, you can delete the content in this README and update the file 
 
 ---
 
-## Edit a file for bitbuckets
+## Edit a file for bitbucket
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
 
